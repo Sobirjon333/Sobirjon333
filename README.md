@@ -44,16 +44,9 @@ I'm a developer interested in building useful web applications, learning new tec
 
 > Tech icons represent my interests and learning roadmap, not necessarily expert-level proficiency in every tool.
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sobirjon333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70B7FF&icon_color=9D7CFF&text_color=C9D1D9" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobirjon333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70B7FF&text_color=C9D1D9" height="170" alt="Most used repository languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sobirjon333&bg_color=0d1117&color=70b7ff&line=9d7cff&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
-
-</div>
 
 ## 🚀 Featured Projects
 
